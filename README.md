@@ -1,6 +1,7 @@
 # js-buttons-event
 
 We lay out buttons inside a div and modify their labels after each click event on one of the buttons.
+
 *Styling*. The document's elements must have the following styles:
 
 The width of btns is *75%*, relative to the document body's width.
