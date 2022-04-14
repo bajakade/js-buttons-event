@@ -11,4 +11,5 @@ Each button (i.e., `btn1` through `btn9`) satisfies the following:
  - The `font-size` is *24px*.
   
 *Behavior*
+
 Each time btn5 is clicked, the innerHTML text on the grid's outer buttons (i.e., `bt1`, `btn2`, `btn3`, `btn4`, `btn6`, `btn7`, `btn8`, `btn9`) must rotate in the clockwise direction. Do not update the button id's.
